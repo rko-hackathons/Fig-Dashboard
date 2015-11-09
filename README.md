@@ -26,3 +26,7 @@ GLOBAL OPTIONS:
    --projectname, -p "notset"	Specify an alternate project name [$FIG_PROJECT_NAME]
    --help, -h			show help
    --version, -v		print the version
+
+
+Released under the [MIT License] (http://opensource.org/licenses/MIT)
+Copyright @ 2015 [RKOSecurity] (http://www.rkosecurity.com)
