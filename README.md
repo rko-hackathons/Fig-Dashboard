@@ -28,5 +28,5 @@ GLOBAL OPTIONS:
    --version, -v		print the version
 
 
-Released under the [MIT License] (http://opensource.org/licenses/MIT)
+Released under the [Apache License] (http://www.apache.org/licenses/)
 Copyright @ 2015 [RKOSecurity] (http://www.rkosecurity.com)
