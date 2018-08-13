@@ -2,6 +2,7 @@
 
 This is a Fig Dashboard web app written in go for the GopherGala 2015 hackathon
 
+```
 NAME:
    figdash - fig dashboard
 
@@ -26,7 +27,11 @@ GLOBAL OPTIONS:
    --projectname, -p "notset"	Specify an alternate project name [$FIG_PROJECT_NAME]
    --help, -h			show help
    --version, -v		print the version
+```
 
 
-Released under the [Apache License] (http://www.apache.org/licenses/)
-Copyright @ 2015 [RKOSecurity] (http://www.rkosecurity.com)
+## License
+
+Released under the [Apache License](http://www.apache.org/licenses/)
+
+Copyright @ 2015 [RKOSecurity](http://www.rkosecurity.com)
